@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: argo-node-demo
-          image: <your-dockerhub-username>/argo-node-demo:v1
+          image: shashank04515/argo-node-demo:v1
           ports:
             - containerPort: 3000
